@@ -69,7 +69,7 @@ def stop_attack():
 # Create the main window
 root = tk.Tk()
 root.title("Penetration Attack Tool")
-root.geometry("400x300")
+root.geometry("450x300")
 root.resizable(False, False)
 
 # Create a style
